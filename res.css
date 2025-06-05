@@ -1,0 +1,328 @@
+
+@media  screen and (max-width: 990px) {
+    .inner-1 {
+        margin: auto;
+        text-align: center;
+    }
+     .foroo-dark {
+   background-color: rgba(0, 0, 0, 0.3);
+    background-position: right center !important;
+   padding:130px 0 !important;
+}
+.row-2-col h2 {
+        margin-bottom:0 !important;
+    }
+.for-hooome{
+        padding: 0!important;
+        background-position:right center !important;
+    }
+    .for-wi{
+        width: 100%;
+        height: 20px;
+    }
+    .cart-icon {
+        right:30px !important;
+    }
+     .dis-pan{
+        display:block !important;
+    }
+    .sign {
+        padding:10px 20px !important;
+        margin-right: 0 !important;
+    }
+    .nav-item {
+        padding-right: 0 !important;
+    }
+    .d-flex {
+        margin: auto;
+    }
+    .footer-col-1,.footer-col-2{
+        border: none;
+    }
+    .footer-col-3 {
+    padding-left: 0px !important;
+ 
+}
+.update-car{
+    width: 70%;
+    float: left;
+}
+    .about-row-3-col-1 h3 {
+    padding-right: 0;
+}
+.about-new-col{margin:0 0 40px 0 !important; }
+    .new-col {
+    margin: 25px 0 0 0;
+}
+ .row-3-col-1 {
+        text-align: center;
+      }
+    .sign{
+        margin-top: 12px;
+    }
+    .row-3-row-2-col-2 {
+        width: 80%;
+        margin: auto;
+    }
+    .join-row-14-col-col {
+        height: auto;
+    }
+    .for-hori {
+        display: none;
+      }
+      .none-mar{
+          margin-left:0 !important;
+      }
+      .cart-row-col-2{
+        margin-top: 20px !important;
+      }
+}
+@media  screen and (max-width: 768px) {
+    .col-dash-img-2 {
+        width: 300px;
+        height: 265px;}
+        .row-2-col{
+            width: 90%;
+            padding: 0 10px;
+        }
+        .row-2-col h1 {
+            width:300px !important;
+            font-size: 18px;
+        }
+        .login-row-1-col {padding-top:40px !important;}
+        .col-dash-img-1-copy,.col-dash-img-1 {
+            width: 250px;}
+            .join-dash {
+                width: 180px;}
+                .join-col-dash-img-1-copy {
+                    width: 168px;
+                }
+                .join-col-dash-img-2 {
+                    width: 216px;height: 144px;
+                }
+                .join-row-3-row-2-col-2{
+                    width: 314px;
+                }
+                
+                .about-row-5-col h5 {
+                    font-size: 20px;}
+                    .join-row-4 h3 {
+                        padding: 0 0 0 58%;
+                      }
+                      .join-row-12-col h3 {
+                        font-size: 18px;
+                        padding: 0;
+                    }
+                    .single-row-1-col-1{
+                        width: 70%;
+                        margin: auto;
+                        margin-bottom: 20px;
+                    }
+                    .single-row-1-col-2{
+                        width: 100%;
+                    }
+                     .join-row-4 h3 {
+            padding: 0 25px 0 0;
+          }
+                      
+}
+
+@media  screen and (max-width: 640px) {
+    .cart-row-col,.cart-row-col-2,.row-3-col-1,.row-3-col-2-col-1,.footer-col-1, .footer-col-2,.join-for-all,.footer-col-3, .row-3-col-2-col-2,.row-3-col-2,.row-3-col-1,.row-3-row-2-col-2,.row-3-col-1 ,.about-row-5-col,.join-row-5-col,.join-row-14-col-col,.join-row-14-col,.join-row-5-col-row,.row-3-col-2-col-2   {width: 100% !important; margin:auto; }
+    .row-3-col-1 h3, .new-col {
+        font-size: 16px;
+    }
+   .foroo-dark { background-size: 686px !important;
+    padding:  45px 0 !important;}
+    .about-row-2-for-gra {
+        padding: 40px 0 !important;
+    }
+    .about-row-2 {
+    background-position: center center !important;
+    background-size: 797px !important;
+
+}
+   
+   
+    .navbar-toggler {
+        top: 6px !important ;
+    }
+    .cart-icon {
+        top: 10px;
+    }
+    
+    
+    
+    .row-3-col-1 h3, .new-col {
+    margin: 15px 0 0 0;}
+    .row-3-col-2-col-3{margin-top:0 !important;}
+    .row-3-col-2-col-1,.row-3-col-2-col-2{float:none; display:inline-block; width:100% !important;}
+    .navbar-brand {
+        width: 150px;
+        padding:0 0 0 10px;
+    }
+    .navbar-brand img{width: 100%;}
+    .shop-row-14-col{
+        width: 70%;
+        margin: auto;
+    }
+   
+    .shop-row-14-col-col h4 {
+        font-size: 18px;
+    }
+    .shop-row-14-col-col h3 {
+        font-size: 16px;}
+    .join-for-all{
+        padding: 0;
+        margin:auto;
+    }
+    .join-row-5-col h5 {
+        font-size: 20px;
+    }
+    .join-row-5-col h6 {
+        font-size: 12px !important;
+    }
+    .about-row-3-col-2 img {
+        border-radius: 40px;
+padding: 0 10px;
+    }
+    
+    .about-row-3-col-2{
+        padding: 0;
+
+    }
+    .about-row-3-col-2,.about-row-5-col{
+        height: auto;
+        width: 70%;
+        margin: auto    ;
+    }
+    .row-2-col h1 {width: 180px !important;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+            .row-2-col h2 {
+                font-size:16px !important;
+            }
+    .row-3-col-1 p {
+        font-size: 14px;
+    }
+    .row-3-col-2-col-1 p, .row-3-col-2-col-2 p, .row-3-col-2-col-3 p{height: 58px; font-size: 12px;}
+    .row-3-col-2-col-1, .row-3-col-2-col-2{height: 110px; margin-bottom: 10px;}
+    .row-3-col-1{
+        margin-top: 0;
+        width:95% !important;
+    }
+    .col-dash-img-1,.col-dash-img-1-copy {  width: 170px;
+      }
+      .col-dash {
+        width: 200px;
+        height: 160px;}
+        .col-dash-img-2 {
+            width: 240px;
+            height: 174px;
+          }
+          .row-3-row-2-col-2 {
+            width: 64%;}
+             .join-row-14-col-col h6 {
+               
+                padding: 0 20px;
+              }
+
+.row-3-row-2-col-2{
+            height: 240px;
+        }
+        .about-row-5-col h5 {font-size: 22px;}
+            .about-row-5-col h6 {font-size: 20px;}
+            .about-row-3-col-1 h3 {padding: 0;}
+            .join-row-13 h3 {font-size: 20px;}
+            .cart-icon{margin-right: 5px;}
+}
+@media  screen and (max-width: 480px) {
+    .row-3-row-2-col-2 {
+        width: 100% !important;}   
+        .footer-col-3-col-1 h5, .footer-col-3-col-2 h5 {
+            font-size: 9px;
+        }
+        .th, td {
+            font-size: 12px;
+        }
+       
+       .inner-1 h4{
+           font-size:9px;
+       }
+          .right-border-2 {width: 30%;}
+          .join-row-12-col h3,.join-row-12-col-h4-is,.join-row-12-col-h4-is span {
+            font-size: 14px;}
+            .about-row-3-col-2,.about-row-5-col{
+                width: 100%;
+            }
+                .join-row-14-col-col h6 {
+                font-size: 14px;
+                padding: 0 ;
+              }
+
+            .join-row-13 h3 {
+                font-size: 20px;
+                margin: 20px 0px 20px 0;
+              }
+              .join-row-14-col-col h5 {
+                font-size: 14px;
+                padding: 0;
+               }
+               .join-row-14-col-col-mar {
+                margin: 16px 0 0 0;
+              }
+             
+              .shop-row-14-col {
+                width: 90%;}
+                .for-button-button {
+                    padding: 8px 0;
+                    width: 175px;
+                    font-size: 14px;
+                }
+                .single-button{
+                    width: 100% !important;
+                }
+                .single-but {
+                width: 60%;
+                font-size: 12px;
+                }
+                .update-car{
+                    width: 100% !important;
+                }
+                th, td {
+     
+                    text-align: left;
+                    font-size: 12px;
+                    padding: 10px 0 10px 8px;
+                }
+                .t-img {
+                    display: none;
+                }
+                .cart-row-col h2,.cart-row-col-2 h2 {
+                    margin-bottom: 10px;
+                    font-size: 28px;
+                }
+                .quantity {
+                    height: 35px;}
+                    .cart-row-col-2-col-1 h6 ,.cart-row-col-2-col-1 h5 {
+                        font-size: 14px;}
+                        label {font-size: 14px;}
+                        .checkout-h6 h6 {
+                            width: 50% !important;
+                        }
+                        .for-p p,.chick {
+                            font-size: 12px !important;
+                        }
+                        
+}
+@media screen and (max-width: 320px) {
+    .join-for-all {
+        
+        margin: 0 !important;
+    }
+    
+
+   
+}
+
